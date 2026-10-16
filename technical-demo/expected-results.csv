@@ -1,0 +1,3 @@
+facility,facility_kwh,it_kwh,aggregate_pue,illustrative_electricity_tco2e
+Example East,295000.0,200000.0,1.475,88.5
+Example West,348000.0,240000.0,1.45,139.2
